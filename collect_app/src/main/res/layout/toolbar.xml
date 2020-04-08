@@ -11,5 +11,6 @@
         android:layout_marginTop="-7dp"
         android:indeterminate="true"
         android:visibility="gone"
+
         />
 </merge>
